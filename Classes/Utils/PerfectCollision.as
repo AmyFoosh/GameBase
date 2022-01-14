@@ -8,6 +8,7 @@ package
 	import flash.geom.Matrix;
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
+
 	public class PerfectCollision
 	{
 		/** Get the collision rectangle between two display objects. **/
