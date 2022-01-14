@@ -8,7 +8,7 @@ package
 	import flash.geom.Matrix;
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
-	public class PixelPerfectCollisionDetection
+	public class PerfectCollision
 	{
 		/** Get the collision rectangle between two display objects. **/
 		public static function getCollisionRect(target1:DisplayObject, target2:DisplayObject, commonParent:DisplayObjectContainer, pixelPrecise:Boolean = false, tolerance:Number = 0):Rectangle
